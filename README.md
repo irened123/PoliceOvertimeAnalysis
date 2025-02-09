@@ -1,5 +1,5 @@
 # PoliceOvertimeAnalysis  
-**A Spark! Project Analyzing Budgetary Allocation and Overtime Spending in the Boston Police Department (BPD)**  
+**A Spark! Project Analyzing Budgetary Allocation and Overtime Spending in the Boston Police Department**  
 
 
 ## **Project Description**  
