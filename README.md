@@ -74,11 +74,6 @@ All modeling steps will be **documented for reproducibility** and integrated int
 - **Scatter Plots**: Visualize overtime hours worked vs. paid to identify discrepancies.  
 
 
-## **Test Plan / Metrics**
-### **Data Split**
-- **Train-test split**: Withhold **20% of the dataset for testing**.
-- **Cross-validation**: Use **k-fold validation** to improve model generalization.
-
 ## **Test Plan**  
 
 To ensure the accuracy and reliability of the analysis, the project will follow a structured testing approach:  
