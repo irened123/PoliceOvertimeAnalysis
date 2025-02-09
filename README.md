@@ -3,7 +3,7 @@
 
 
 ## **Project Description**  
-This project analyzes the Boston Police Department (BPD) budget**, focusing on overtime expenditures and financial discrepancies. Given BPD’s $400+ budget, understanding how overtime is allocated is crucial for transparency and accountability. This analysis will examine trends in BPD paychecks, overtime hours paid vs. worked, and discrepancies among officers with lower worked-to-paid ratios** to identify potential inefficiencies and anomalies in spending. By uncovering these patterns, this project aims to provide data-driven insights into budget allocation and workforce management.  
+This project analyzes the Boston Police Department (BPD) budget, focusing on overtime expenditures and financial discrepancies. Given BPD’s $400+ budget, understanding how overtime is allocated is crucial for transparency and accountability. This analysis will examine trends in BPD paychecks, overtime hours paid vs. worked, and discrepancies among officers with lower worked-to-paid ratios to identify potential inefficiencies and anomalies in spending. By uncovering these patterns, this project aims to provide data-driven insights into budget allocation and workforce management.  
 
 
 ## **Key Goals**  
@@ -14,7 +14,7 @@ This project analyzes the Boston Police Department (BPD) budget**, focusing on o
 
 2. **Analyze Budget & Pay Trends**  
    - Examine year-over-year changes in BPD's total budget and overtime allocations.  
-   - Compare regular pay vs. overtime pay trends** to identify spending patterns.  
+   - Compare regular pay vs. overtime pay trends to identify spending patterns.  
 
 3. **Detect Overtime Discrepancies**  
    - Compare overtime hours worked vs. paid to flag inconsistencies.  
@@ -31,10 +31,6 @@ This project analyzes the Boston Police Department (BPD) budget**, focusing on o
 6. **Forecast Overtime Spending**  
    - Use historical overtime data to predict next year’s expected overtime costs.  
    - Compare projections to BPD’s budget allocation to assess potential overspending.  
-
-7. **Deliver a Clear & Reproducible Report**  
-   - Maintain a well-documented GitHub repo with code, datasets, and analysis.  
-   - Summarize findings in a final report with key insights and recommendations.  
 
 
 ## **Data Collection**  
@@ -80,7 +76,8 @@ To ensure the accuracy and reliability of the analysis, the project will follow 
 - **Model Validation**: Use cross-validation techniques to prevent overfitting and assess generalizability.  
 - **Performance Metrics**: Evaluate predictive models using Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE) to measure accuracy.  
 - **Anomaly Detection Assessment**: Compare flagged anomalies against historical trends to validate their significance.  
+**
 
-Results will be iteratively refined based on insights from testing, with adjustments made to **feature selection, model hyperparameters, and data preprocessing techniques** as needed.  
+Results will be iteratively refined based on insights from testing, with adjustments made to feature selection, model hyperparameters, and data preprocessing techniques as needed.  
 
 
