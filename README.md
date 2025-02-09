@@ -76,7 +76,6 @@ To ensure the accuracy and reliability of the analysis, the project will follow 
 - **Model Validation**: Use cross-validation techniques to prevent overfitting and assess generalizability.  
 - **Performance Metrics**: Evaluate predictive models using Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE) to measure accuracy.  
 - **Anomaly Detection Assessment**: Compare flagged anomalies against historical trends to validate their significance.  
-**
 
 Results will be iteratively refined based on insights from testing, with adjustments made to feature selection, model hyperparameters, and data preprocessing techniques as needed.  
 
